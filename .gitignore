@@ -1,0 +1,13 @@
+# Build artifacts
+.build/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+
+# Editor-specific config
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
